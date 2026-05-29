@@ -4,7 +4,7 @@
 
 We   move according to    the Prescripts at all times.
 
-<img align="left" width="220" height="250" src="https://i.postimg.cc/QxpfmXwY/The-Index-Logo.png"/>
+<img align="left" width="150" height="165" src="https://i.postimg.cc/QxpfmXwY/The-Index-Logo.png"/>
 
   </br>
 
