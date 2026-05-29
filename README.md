@@ -16,7 +16,7 @@
       $\color{LightCyan}{\textsf{im shy around strangers, but im nice i dont bite}}$ <br>
       $\color{PaleTurquoise}{\textsf{mostly afk / offtab, w2i}}$ <br>
       $\color{LightCyan}{\textsf{dni if incel / proshipper / under 15}}$ <br>
-      $\color{PaleTurquoise}{\textsf{yesod + sinclair + sora fictkin}}$ <br>
+      $\color{PaleTurquoise}{\textsf{do not ask whos fronting unless close friends}}$ <br>
 </th>
 </tr>
 </table>
