@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**hey-boyy/hey-boyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+<body>
+<div align="center">
+We   move according to    the Prescripts at all times.
+  
+<table>
+  <tr>
+    <th>
+      $\color{PaleTurquoise}{\textsf{please ask to hide behind / sit next to me}}$ <br>
+      $\color{LightCyan}{\textsf{i have eye issues, so i will hide you if your skin is too bright}}$ <br>
+      $\color{PaleTurquoise}{\textsf{mostly afk / offtab, w2i}}$ <br>
+      $\color{LightCyan}{\textsf{dni if incel / proshipper}}$ <br>
+</th>
+</tr>
+</table>
