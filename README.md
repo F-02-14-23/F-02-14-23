@@ -17,7 +17,6 @@
       $\color{PaleTurquoise}{\textsf{mostly afk / offtab, w2i}}$ <br>
       $\color{LightCyan}{\textsf{dni if incel / proshipper / under 15}}$ <br>
       $\color{PaleTurquoise}{\textsf{do not ask whos fronting unless close friends}}$ <br>
-      $\color{LightCyan}{\textsf{most of my skins have black outlines because im too lazy}}$ <br>
 </th>
 </tr>
 </table>
