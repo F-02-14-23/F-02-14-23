@@ -19,12 +19,12 @@
 </tr>
 </table>
 
+
+
 <hr>
-<div align="center">
- 
+<div align="center"> 
 
 <a href="https://visitorbadge.io/status?path=hey-boyy%20"><img src="https://api.visitorbadge.io/api/visitors?path=hey-boyy%20&label=you%20are%20observer%20number%3A&labelColor=%23d9e3f0&countColor=%23263759&style=flat" /></a>
-
  
  i dont know what to put here
  
