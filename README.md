@@ -12,7 +12,7 @@
       $\color{PaleTurquoise}{\textsf{not fond of sitting close to anyone (if not friends / not cramped)}}$ <br>
       $\color{DeepSkyBlue}{\textsf{i have eye issues, i will hide you if your skin is too bright}}$ <br>
       $\color{LightCyan}{\textsf{im shy around strangers, but im nice i dont bite}}$ <br>
-      $\color{PaleTurquoise}{\textsf{mostly afk / offtab, w2i}}$ <br>
+      $\color{PaleTurquoise}{\textsf{mostly afk / public chat off. w2i}}$ <br>
       $\color{LightCyan}{\textsf{dni if incel / t.r.a.s.h / under 15}}$ <br>
       $\color{PaleTurquoise}{\textsf{do not ask whos fronting unless close friends}}$ <br>
 </th>
