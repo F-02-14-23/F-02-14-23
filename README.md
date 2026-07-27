@@ -1,1 +1,1 @@
-![Alt](photos/Yinglong_Airborne_Idle_Animation.gif)   
+![Alt](https://i.postimg.cc/JnPJJMD2/Yinglong-Airborne-Idle-Sprite.png)   
