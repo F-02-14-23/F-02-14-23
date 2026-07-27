@@ -1,4 +1,4 @@
-![](https://limbuscompany.wiki.gg/wiki/Yinglong#/media/File:Yinglong_Airborne_Idle_Animation.gif)
+![](https://limbuscompany.wiki.gg/images/Yinglong_Airborne_Idle_Animation.gif)
 
 Observation Logs
 
