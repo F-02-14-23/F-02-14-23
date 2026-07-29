@@ -14,3 +14,5 @@ w2i if I'm not actively engaging in stuff
 
 I don't bite! int 
 ${{\color{#D80A0A}{\textsf{ unless said otherwise }}}}$
+
+dni if under 14
