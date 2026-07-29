@@ -5,9 +5,12 @@
 
 <div align="center"> 
 
- I'm called Everything There or Everybody 
+ I'm called 
+ ${{\color{#B19D9E}{\textsf{ Everything There  }}}}$
+ or
+ ${{\color{#B19D9E}{\textsf{ Everybody  }}}}$
   
 w2i if I'm not actively engaging in stuff
 
-I don't bite! int unless said otherwise on my skin name
-
+I don't bite! int 
+${{\color{#D80A0A}{\textsf{ unless said otherwise }}}}$
