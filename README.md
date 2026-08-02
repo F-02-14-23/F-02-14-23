@@ -13,4 +13,4 @@ I don't bite! int unless ${{\color{#D80A0A}{\textsf{ said otherwise  }}}}$
 
 dont friend on pt if under 15
 
-<sub> check out my cool friends in following tab
+<sub> check out my cool friends in the following tab
