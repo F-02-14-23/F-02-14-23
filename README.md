@@ -13,6 +13,8 @@ I don't bite! int unless ${{\color{#D80A0A}{\textsf{ said otherwise  }}}}$
 
 dont friend on pt if under 15
 
-${{\color{#D80A0A}{\textsf{ only refer 2 me using neos }}}}$
+${{\color{#D80A0A}{\textsf{ refer 2 me using neos }}}}$
 
+<a href="https://pronounslist.com/Hy-hym">My pronouns are Hy/hym</a> 
+<a href="https://pronounslist.com/Xe-Xym">and Xe/Xym</a>
 <sub>
