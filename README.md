@@ -15,6 +15,6 @@ dont friend on pt if under 15
 
 ${{\color{#D80A0A}{\textsf{ refer 2 me using neos }}}}$
 
-<a href="https://pronounslist.com/Hy-hym">My pronouns are Hy/hym</a> 
-<a href="https://pronounslist.com/Xe-Xym">and Xe/Xym</a>
+My pronouns are <a href="https://pronounslist.com/Hy-hym">Hy/hym</a> 
+and <a href="https://pronounslist.com/Xe-Xym">Xe/Xym</a>
 <sub>
