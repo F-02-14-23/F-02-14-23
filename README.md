@@ -5,12 +5,14 @@
 
 <div align="center"> 
 
- I'm called ${{\color{#B19D9E}{\textsf{ Everything There  }}}}$ or ${{\color{#B19D9E}{\textsf{ Everybody  }}}}$
+ I'm called ${{\color{#B19D9E}{\textsf{ Everything There  }}}}$ or ${{\color{#B19D9E}{\textsf{ Sin  }}}}$
   
 whisp2i if I'm not actively engaging in stuff
 
 I don't bite! int unless ${{\color{#D80A0A}{\textsf{ said otherwise  }}}}$
 
 dont friend on pt if under 15
+
+${{\color{#D80A0A}{\textsf{ only refer 2 me using neos }}}}$
 
 <sub>
